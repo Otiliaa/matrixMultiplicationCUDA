@@ -1,0 +1,2 @@
+nvcc -rdc=true .\matrixmul.cu .\kernel.cu compilez asa pentru ca -rdc=true compileaza surse multiple
+./a.exe rularea
